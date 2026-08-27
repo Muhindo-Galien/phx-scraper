@@ -476,3 +476,6 @@ Coverage worth knowing about:
 | Streaming | Rows are on disk before later pages are requested, partial runs keep their rows |
 | Metrics | Exclusive boundary, undated rows, empty file does not divide by zero |
 | PDFs | Markup escaping, separator entities, sort order, pagination, empty datasets |
+
+
+Feel free to contribute or use the approach in here for anything you're building, it's production ready.
